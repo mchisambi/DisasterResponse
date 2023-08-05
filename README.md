@@ -25,13 +25,18 @@ Run the following command in the app's directory to run your web app. python run
 
 # File description
 app/templates/*: templates/html files for web app
+
 data/process_data.py: Extract Train Load (ETL) pipeline used for data cleaning, feature extraction, and storing data in a SQLite database
+
 models/train_classifier.py: ML pipeline that loads data, trains a model, and saves the trained model as a .pkl file for later use
+
 run.py: This file can be used to launch the Flask web app used to classify disaster messages
 
+The two jupyter notebooks are part of the course and provide an overview of the model build
 
 # Licensing, authors
 https://www.udacity.com/
+
 Figure8 now Appen - https://appen.com/
 
 
