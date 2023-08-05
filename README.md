@@ -36,9 +36,11 @@ run.py: This file can be used to launch the Flask web app used to classify disas
 
 The two jupyter notebooks are part of the course and provide an overview of the model build
 
-# Licensing, authors
+# Licensing, authors, references
 https://www.udacity.com/
 
 Figure8 now Appen - https://appen.com/
+
+https://github.com/canaveensetia/udacity-disaster-response-pipeline/tree/master <- for format of this description page
 
 
